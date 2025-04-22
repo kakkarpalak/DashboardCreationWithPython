@@ -44,7 +44,7 @@ Visualize as a Hierarchy bubble chart.
 Utilize Bubbles, Size, Color fields of Hierarchy bubble chart.
 Include a proper Chart title.
 
-On the Future Technology Trend dashboard tab:
+2) On the Future Technology Trend dashboard tab:
 
 In the first rectangle (Panel 1):
 
@@ -77,7 +77,7 @@ Visualize as a Hierarchy bubble chart.
 Utilize Bubbles, Size, Color fields of Hierarchy bubble chart.
 Include a proper Chart title.
 
-On the Demographics dashboard tab:
+3) On the Demographics dashboard tab:
 
 In the first rectangle (Panel 1):
 
